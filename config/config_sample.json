@@ -1,0 +1,24 @@
+{
+    "token":"xoxb",
+    
+    "msg":[
+        {
+            "channel":"#test",
+            "msg_color":"#ff0000",
+            "msg_author":"Slack Bot Notice",
+            "msg_title":"",
+            "msg_text":"send to test Message.",
+            "rsv_time": 14,
+            "run_script":"dir"
+        },
+        {
+            "channel":"#test",
+            "msg_color":"#ff0000",
+            "msg_author":"Slack Bot Notice",
+            "msg_title":"",
+            "msg_text":"send to test Message.",
+            "rsv_time": 14,
+            "run_script":"dir"
+        }
+    ]
+}
